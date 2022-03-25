@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Craig Redmond</h1>
-<h3 align="center">I'm a final year Creative Computing student in IADT, Dublin. Below you can find some of my recent projects.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=craigr99" alt="craigr99" /></a> </p>
+<h1>Hi 👋, I'm Craig Redmond</h1>
+<h3>I'm a final year Creative Computing student in IADT, Dublin. Below you can find some of my recent projects.</h3>
+<p>I have a keen interest and enjoy web development and have experience coding in various languages such as JavaScript, Java, Python, Kotlin and PHP. I have developed various applications using popular web frameworks and have an interest in the MERN stack.</p>
+<hr>
 
 - 🔭 I’m currently working on my final year Major Project [FundNest](https://github.com/Craigr99/major-project-fundnest)
 
