@@ -1,13 +1,5 @@
 <h1>Hi 👋, I'm Craig Redmond</h1>
-<h3>I'm a final year Creative Computing student in IADT, Dublin. Below you can find some of my recent projects.</h3>
-<p>I have a keen interest and enjoy web development and have experience coding in various languages such as JavaScript, Java, Python, Kotlin and PHP. I have developed various applications using popular web frameworks like React, React Native, VueJS, Laravel and have an interest in the MERN stack. I have gained valuable knowledge and skills for various industries such as programming, web design & development, UI/UX design, database design, software development, mobile app development, research/documentation and many more.</p>
-<hr>
-
-- 🔭 I’m currently working on my final year Major Project [FundNest](https://github.com/Craigr99/major-project-fundnest)
-
-- 🌱 I’m currently learning **React, React Native & Redux**
-
-- 📫 How to reach me **craigred99@gmail.com**
+<h3>I'm a software developer at HQ Software, Dublin.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
